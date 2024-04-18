@@ -1,0 +1,1 @@
+I used key concepts taught in my Graph Theory Analysis course to measure the importance and relationships of characters in the novel 'Pride and Prejudice'. Other books can be analysed similiarly by changing the source .txt file and running the code in Jupyter.
